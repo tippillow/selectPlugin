@@ -1,0 +1,6 @@
+../select-plugin/node_modules
+.idea
+dist
+.cache
+package-lock.json
+node_modules
